@@ -1,0 +1,31 @@
+.sform{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    /* border :1px solid black; */
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: 
+    
+    rgba(219, 17, 125, 0.5);
+    box-shadow :inset -5px -5px rgba(0, 0,0, 0.5);
+    border-radius: 25px;
+  } 
+  
+  .rbg-image {
+    background-image: url('https://images.pexels.com/photos/1080719/pexels-photo-1080719.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); 
+   
+   background-size: cover;
+   background-position: center;
+   margin-bottom: auto;
+ }
+
+ .cr-image {
+    background-image: url('https://images.pexels.com/photos/1743227/pexels-photo-1743227.jpeg'); 
+   
+   background-size: cover;
+   background-position: center;
+   margin-bottom: auto;
+ }

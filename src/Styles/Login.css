@@ -1,0 +1,51 @@
+h3{
+    font-style: oblique;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f0f0f;
+}
+.label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-size: larger;
+}  
+
+.btn{
+    background-color: rgb(16, 63, 184);
+    color: white;
+}
+
+.btn:hover{
+font-size: larger;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: white;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: auto;
+    background-color: rgb(85, 220, 98);
+    box-shadow :inset -5px -5px rgba(0, 0,0, 0.5);
+    border-radius: 25px;
+    /* background-color: white; */
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: auto;
+    background-color: rgb(85, 220, 98);
+    box-shadow :inset -5px -5px rgba(0, 0,0, 0.5);
+    border-radius: 25px;
+    /* background-color: white; */
+}
+.cr-image {
+    background-image: url('https://images.pexels.com/photos/1743227/pexels-photo-1743227.jpeg'); 
+   
+   background-size: cover;
+   background-position: center;
+   margin-bottom: auto;
+   background-repeat:no-repeat;
+ }
